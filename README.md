@@ -36,3 +36,9 @@ To simulate real-world conditions and uncertainties such as unpredictable outage
 - Total processing time for reported outages
 
 ---
+
+## Codes
+
+- SmartGrid folder contains our project's main codes
+- NetworkServerApp.cc , NetworkServerApp.h, PacketForwarder.cc, PacketForwarder.h -> modified from flora/src/LoRa
+- SimpleLoRaApp.cc, SimpleLoRaApp.h -> modified from flora/src/LoRaApp
